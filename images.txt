@@ -1,1 +1,1 @@
-justsong/one-api
+coredns/coredns:v1.11.1
