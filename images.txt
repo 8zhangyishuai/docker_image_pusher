@@ -1,2 +1,1 @@
-ghcr.io/open-webui/open-webui:main
-justsong/one-api:latest
+justsong/one-api:v0.6.10-alpha
