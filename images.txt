@@ -1,1 +1,2 @@
-zhangyishuai/chatgpt-web:latest
+ghcr.io/open-webui/open-webui:v0.5.0
+ghcr.io/open-webui/open-webui:0.5.0
