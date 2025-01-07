@@ -1,1 +1,1 @@
-owncloud/server:10.15.0
+zhangyishuai/smsboom:v1.0
