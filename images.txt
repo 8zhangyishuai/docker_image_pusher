@@ -1,1 +1,1 @@
-zhangyishuai/smsboom:v1.0
+ghcr.io/open-webui/open-webui:v0.5.7
