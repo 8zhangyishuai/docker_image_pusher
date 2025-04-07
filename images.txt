@@ -1,1 +1,1 @@
-caddy:2.9.1
+ghcr.io/open-webui/open-webui:main
