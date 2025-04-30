@@ -1,1 +1,1 @@
-nginx
+halohub/halo:2.20.19
