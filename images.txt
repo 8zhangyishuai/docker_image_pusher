@@ -1,1 +1,1 @@
- gcr.io/google-samples/gb-frontend-arm64:v5
+anjia0532/google-samples.gb-frontend-arm64:v6
