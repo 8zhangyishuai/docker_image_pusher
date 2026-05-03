@@ -1,1 +1,1 @@
-kubeguide/guestbook-php-frontend:latest
+ gcr.io/google-samples/gb-frontend-arm64:v5
