@@ -1,1 +1,1 @@
-nginx:stable
+kubeguide/guestbook-php-frontend:latest
