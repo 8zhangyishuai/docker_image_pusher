@@ -1,7 +1,3 @@
---platform linux/arm64 openwebui/open-webui:0.11
---platform linux/arm64 redis:7.4
---platform linux/arm64 mariadb:11
---platform linux/arm64 owncloud/server:11
---platform linux/arm64 justsong/one-api:v0.6.11-preview.7
+--platform linux/arm64 owncloud/server:10.15.2
 --platform linux/arm64 halohub/halo:2.26.1
 --platform linux/arm64 caddy:2.11.4
