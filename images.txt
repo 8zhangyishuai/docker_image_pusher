@@ -1,1 +1,7 @@
---platform=linux/arm64 registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+openwebui/open-webui:0.11
+redis:7.4
+mariadb:11
+owncloud/server:11
+justsong/one-api:v0.6.11-preview.7
+halohub/halo:2.26.1
+caddy:2.11.4
