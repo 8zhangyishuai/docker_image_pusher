@@ -1,2 +1,1 @@
---platform linux/arm64 halohub/halo:2.21.7
---platform linux/arm64 martialbe/one-api:v0.14.27
+--platform linux/arm64 halohub/halo:2.26
