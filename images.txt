@@ -1,1 +1,1 @@
---platform linux/arm64/v8 justsong/one-api
+--platform linux/arm64 justsong/one-api
