@@ -1,1 +1,1 @@
---platform linux/arm64 ghcr.io/fruitbars/simple-one-api:v0.13.0
+ghcr.io/fruitbars/simple-one-api:v0.13.0
