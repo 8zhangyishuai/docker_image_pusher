@@ -1,1 +1,1 @@
---platform linux/arm64/v8 ghcr.io/fruitbars/simple-one-api:v0.13.0
+--platform linux/arm64/v8 justsong/one-api
